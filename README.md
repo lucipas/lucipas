@@ -1,7 +1,7 @@
-<marquee><a href="https://octo-ring.com/p/lucipas/prev">Previous</a>
-    <a href="https://octo-ring.com/p/lucipas/random">Random</a>
-    <a href="https://octo-ring.com/p/lucipas/next">Next</a>
-</marquee>
+<a href="https://octo-ring.com/p/lucipas/prev">Previous</a>
+<a href="https://octo-ring.com/p/lucipas/random">Random</a>
+<a href="https://octo-ring.com/p/lucipas/next">Next</a>
+<a href="https://twitter.com/?lang=en">𝕩</a>
 
 <!---
 lucipas/lucipas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
