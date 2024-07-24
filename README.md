@@ -1,4 +1,11 @@
-# 👋 Hi, I'm Lucas
+```js
+.____     ____ ____________ ._____________  _____    _________
+|    |   |    |   \_   ___ \|   \______   \/  _  \  /   _____/
+|    |   |    |   /    \  \/|   ||     ___/  /_\  \ \_____  \ 
+|    |___|    |  /\     \___|   ||    |  /    |    \/        \
+|_______ \______/  \______  /___||____|  \____|__  /_______  /
+        \/                \/                     \/        \/ 
+```
 
 #### What I Know
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
