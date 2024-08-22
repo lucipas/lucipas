@@ -17,7 +17,11 @@
 
 ---
 
-<p><a href="https://twitter.com/?lang=en">𝕩</a></p>
+<p><a href="https://x.com/lucasn268569">𝕩</a></p>
+
+I use Neovim, btw.
+
+
 <!---
 lucipas/lucipas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
